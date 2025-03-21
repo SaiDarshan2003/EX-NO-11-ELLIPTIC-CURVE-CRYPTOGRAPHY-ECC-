@@ -93,7 +93,6 @@ int main() {
     } else {
         printf("Key exchange failed. Shared secrets do not match.\n");
     }
-    printf("Done by Adhithya S - 212222240003");
     return 0;
 }
 ```
@@ -101,7 +100,9 @@ int main() {
 
 
 ## Output:
-![Screenshot 2024-11-15 121307](https://github.com/user-attachments/assets/41817e26-6f8b-4e56-b0a1-67fbd797cc6a)
+
+![image](https://github.com/user-attachments/assets/eb6908df-a95a-4f55-a944-8043df1e91cd)
+
 
 
 ## Result:
